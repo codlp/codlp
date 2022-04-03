@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :female-technologist: As a Freelance Shopify Expert, I offer 3 services:
+### As a Freelance Shopify Expert, I offer 3 services:
 - Customization of Shopify stores
 - Teaching individuals and companies how to build Shopify stores
 - Consulting services on all Shopify aspects (stores, apps, APIs)
