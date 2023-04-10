@@ -6,7 +6,4 @@
 - Consulting services on all Shopify aspects (stores, apps, APIs)
 
 ### I enjoy building projects with code...
-Liquid (Shopify), Ruby, Ruby on Rails, Vanilla JavaScript, React, Rspec, PostgreSQL, Heroku, Clevercloud, Git, GitHub.
-
-### and nocode...
-Integromat, Airtable, Glide, Figma.
+Liquid, JavaScript, Ruby, Ruby on Rails, React.
