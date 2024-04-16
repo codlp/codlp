@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-My name is Coralie Delpha. I live in Paris, France.
+My name is Coralie Delpha. I live in London, UK.
 
 ### About my work
 
-As a Freelance Shopify Expert, I offer 3 services:
+After being a Freelance Shopify developer for 5 years, I recently joined Shopify as a Lead Technical Architect, as part of the Professional Services team.
 
-- Customization of Shopify stores
-- Teaching individuals and companies how to build Shopify stores
-- Consulting services on all Shopify aspects (stores, apps, APIs)
+As a side project, I write a [weekly newsletter](https://coraliedelpha.substack.com/) about Shopify news, creative stories that inspire me and relaxing content to disconnect from work.
 
 ### Blog posts
 
